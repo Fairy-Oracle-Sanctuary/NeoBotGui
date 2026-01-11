@@ -1,0 +1,15 @@
+<!DOCTYPE RCC>
+<RCC>
+  <qresource prefix="/app">
+    <file>images/logo.png</file>
+    <file>images/icons/deepseek.svg</file>
+    <file>qss/dark/sample_card.qss</file>
+    <file>qss/light/sample_card.qss</file>
+    <file>images/logo/bilibili.svg</file>
+    <file>images/logo/echo.svg</file>
+    <file>images/logo/jrcd.svg</file>
+    <file>images/logo/thpic.svg</file>
+    <file>images/logo/furry.svg</file>
+    <file>images/logo/python.svg</file>
+  </qresource>
+</RCC>
